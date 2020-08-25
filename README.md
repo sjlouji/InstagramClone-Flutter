@@ -17,15 +17,12 @@ flutter run
 
 ## Demo
 
-<video src="FacebookClone.mov" poster="poster.jpg" width="320" height="200" controls preload></video>
-
-<img src="InstagramClone7.png" height="300em" /> <br>
-<img src="InstagramClone1.png" height="300em" /> <br>
-<img src="InstagramClone2.png" height="300em" /> <br>
-<img src="InstagramClone3.png" height="300em" /> <br>
-<img src="InstagramClone4.png" height="300em" /> <br>
-<img src="InstagramClone5.png" height="300em" /> <br>
-<img src="InstagramClone6.png" height="300em" /> <br>
+<img src="Demo/InstagramClone6.gif" height="300em" /> <br>
+<img src="Demo/InstagramClone1.png" height="300em" /> <br>
+<img src="Demo/InstagramClone2.png" height="300em" /> <br>
+<img src="Demo/InstagramClone3.png" height="300em" /> <br>
+<img src="Demo/InstagramClone4.png" height="300em" /> <br>
+<img src="Demo/InstagramClone5.png" height="300em" /> <br>
 
 Thank you for your support. 
 
