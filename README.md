@@ -20,7 +20,7 @@ flutter run
 <img src="Demo/InstagramClone6.gif" height="300em" /> <br>
 <img src="Demo/InstagramClone1.png" height="300em" /> <br>
 <img src="Demo/InstagramClone2.png" height="300em" /> <br>
-=<img src="Demo/InstagramClone4.png" height="300em" /> <br>
+<img src="Demo/InstagramClone4.png" height="300em" /> <br>
 <img src="Demo/InstagramClone5.png" height="300em" /> <br>
 
 Thank you for your support. 
